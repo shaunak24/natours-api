@@ -1,11 +1,11 @@
 # natours-api
 A REST API using Node.js and MongoDB for tour company application
 
-#Resources
+# Resources
 - Tour
 - User
 
-#Good resource for
+# Good resource for
 - Middlewares
 - Error handling using express
 - Mongoose library
