@@ -27,6 +27,7 @@ exports.signup = catchAsync(async (req, res, next) => {
     cookieOptions.secure = true;
   }
   res.cookie('jwt', token, cookieOptions);
+  newUser.password = undefined;
 
   res.status(201).json({
     status: 'success',
