@@ -11,7 +11,7 @@ A REST API using Node.js and MongoDB for tour company application
 - Bookings
 - Reviews
 
-# Good resource for
+# Concepts Implemented
 - Middlewares
 - Error handling using express
 - Mongoose library
