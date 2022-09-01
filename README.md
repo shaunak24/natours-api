@@ -2,7 +2,7 @@
 A REST API using Node.js and MongoDB for tour company application
 
 # Data Model
-![natours_data_model](https://user-images.githubusercontent.com/36746155/187951354-65bc48cd-9cb1-4704-a8a6-0289026969d5.png)
+![natours_data_model](https://user-images.githubusercontent.com/36746155/187951816-6f3d016b-cd52-4895-96e0-1832b41da5b1.png)
 
 # Resources
 - Tour
